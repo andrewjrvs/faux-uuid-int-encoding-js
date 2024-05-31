@@ -1,0 +1,15 @@
+{
+  "name": "faux-uuid-int-encoding",
+  "version": "0.0.1",
+  "description": "Encode / decode an integer to a Faux uuid",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uuid",
+    "encode"
+  ],
+  "author": "andrewjrvs",
+  "license": "ISC"
+}
